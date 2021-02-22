@@ -7,7 +7,7 @@ After witnessing first-hand the impact that data has had in many areas of the en
 ### 📫 How to reach me:
 - Email: jeff.spags@gmail.com
 - Portfolio Site: www.jeffspagnola.com
-- LinkedIn: linkedin.com/in/jeffspagnola
+- LinkedIn: www.linkedin.com/in/jeffspagnola
 - Blog: www.jeffspagnola.medium.com
 - Twitter: www.twitter.com/spagnolajeff
 
