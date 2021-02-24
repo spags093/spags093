@@ -3,6 +3,11 @@ I'm a Data Scientist and Machine Learning Engineer with a prior background in ma
 
 After witnessing first-hand the impact that data has had in many areas of the entertainment industry, I wanted to join in on the fun and be part of the exciting, burgeoning worlds of machine learning and deep learning. With the pandemic putting much of my "old life" on hold, I enrolled in the Flatiron School to build my skills in Python, Pandas, SQL, scikit-learn, Tensorflow/Keras, data analytics & visualization and many others. I'm "deeply" (pun intended) interested in building neural networks, image recognition systems, text/speech generation, and AI systems.
 
+### ⚡ Skills:
+Python Development, SQL Querying, Data Analysis, Data Visualization, Machine Learning, Deep Learning, Computer Vision, NLP
+
+### Technologies: 
+Python, SQL, PostgresSQL, Pandas, Numpy, Matplotlib, Seaborn, Plotly, Statsmodels, Scikit-learn, Tensorflow/Keras, Pytorch, Dash, Flask, SHAP, Lime, Google Colab.
 
 ### 📫  How to reach me:
 - Email: jeff.spags@gmail.com
