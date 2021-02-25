@@ -19,12 +19,13 @@ Python, SQL, PostgresSQL, Pandas, Numpy, Matplotlib, Seaborn, Plotly, Statsmodel
 
 ### 🔭  I’m currently working on:
 - The famous Deep Learning course by Andrew Ng on Coursera
+- Learning the in's and out's of Dash with the 'Interactive Python Dashboards with Plotly and Dash' course on Udemy 
 - Building a text generation chatbot app
 - Seeking a full time Data Science or Machine Learning role 
 
 
 ### ⚡ Fun fact:
-I'm actually still an active musician!  Check out my electronic/synthpop band Black Mansions anywhere music is streaming.
+I'm actually still an active musician!  Check out my electronic/synthpop band <a href="https://open.spotify.com/artist/4FWBBIMazTsF2kdnlW59dQ?si=WgZRSzB4SGe0AASxMXU8Cg">Black Mansions</a> on Spotify or anywhere music is streaming.
 
 
 <!--
