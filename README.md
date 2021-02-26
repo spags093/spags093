@@ -7,9 +7,9 @@ After witnessing first-hand the impact that data has had in many areas of the en
 Python Development, SQL Querying, Data Analysis, Data Visualization, Machine Learning, Deep Learning, Computer Vision, NLP
 
 ### ✨ Technologies: 
-<b>Languages:</b> Python, SQL, PostgresSQL 
-<b>Analysis & Visualization:</b> Pandas, Numpy, Matplotlib, Seaborn, Plotly, SHAP, Lime, Google Colab, Dash, Flask
-<b>Modeling: </b> Statsmodels, Scikit-learn, Tensorflow/Keras, Pytorch
+<b><u>Languages:</u></b> Python, SQL, PostgresSQL, Flask<br>
+<b><u>Analysis & Visualization:</u></b> Pandas, Numpy, Matplotlib, Seaborn, Plotly, SHAP, Lime, Google Colab, Dash<br>
+<b><u>Modeling:</u></b> Statsmodels, Scikit-learn, Tensorflow/Keras, Pytorch
 
 ### 📫  How to reach me:
 - Email: jeff.spags@gmail.com
