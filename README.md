@@ -6,8 +6,13 @@ After witnessing first-hand the impact that data has had in many areas of the en
 ### ⚡ Skills:
 Python Development, SQL Querying, Data Analysis, Data Visualization, Machine Learning, Deep Learning, Computer Vision, NLP
 
-### Technologies: 
-Python, SQL, PostgresSQL, Pandas, Numpy, Matplotlib, Seaborn, Plotly, Statsmodels, Scikit-learn, Tensorflow/Keras, Pytorch, Dash, Flask, SHAP, Lime, Google Colab.
+### ✨ Technologies: 
+#### Languages:
+Python, SQL, PostgresSQL 
+### Analysis & Visualization
+Pandas, Numpy, Matplotlib, Seaborn, Plotly, SHAP, Lime, Google Colab, Dash, Flask
+#### Modeling
+Statsmodels, Scikit-learn, Tensorflow/Keras, Pytorch
 
 ### 📫  How to reach me:
 - Email: jeff.spags@gmail.com
