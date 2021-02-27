@@ -20,11 +20,15 @@ Python Development, SQL Querying, Data Analysis, Data Visualization, Machine Lea
 
 
 ### 🔭  I’m currently working on:
-- The famous Deep Learning course by Andrew Ng on Coursera
-- Learning the in's and out's of Dash with the 'Interactive Python Dashboards with Plotly and Dash' course on Udemy 
+- Building dashboards for a few of  my previous projects
+- Deploying an app for deepfake image detection
 - Building a text generation chatbot app
 - Seeking a full time Data Science or Machine Learning role 
 
+### 🌱 I’m currently learning:
+- The famous Deep Learning course by Andrew Ng on Coursera
+- Learning the in's and out's of Dash with the 'Interactive Python Dashboards with Plotly and Dash' course on Udemy - 
+- Further building my understand of Machine Learning with Frank Kane's 'Machine Learning, Data Science and Deep Learning' Udemy course
 
 ### ⚡ Fun fact:
 I'm actually still an active musician!  Check out my electronic/synthpop band <a href="https://open.spotify.com/artist/4FWBBIMazTsF2kdnlW59dQ?si=WgZRSzB4SGe0AASxMXU8Cg">Black Mansions</a> on Spotify or anywhere music is streaming.
