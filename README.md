@@ -21,13 +21,13 @@ Python Development, SQL Querying, Data Analysis, Data Visualization, Machine Lea
 
 ### 🔭  I’m currently working on:
 - Building dashboards for a few of  my previous projects
+- Tanzanian Water Well Project
 - Deploying an app for deepfake image detection
 - Building a text generation chatbot app
 - Seeking a full time Data Science or Machine Learning role 
 
 ### 🌱 I’m currently learning:
-- The famous Deep Learning course by Andrew Ng on Coursera
-- Learning the in's and out's of Dash with the 'Interactive Python Dashboards with Plotly and Dash' course on Udemy - 
+- The famous Deep Learning course on Coursera by Andrew Ng on Stanford University
 - Further building my understand of Machine Learning with Frank Kane's 'Machine Learning, Data Science and Deep Learning' Udemy course
 
 ### ⚡ Fun fact:
