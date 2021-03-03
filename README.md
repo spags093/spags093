@@ -19,7 +19,7 @@ Python Development, SQL Querying, Data Analysis, Data Visualization, Machine Lea
 - Twitter: www.twitter.com/spagnolajeff
 
 
-### 🔭  I’m currently working on:
+### 🔭  I’m currently working on: 
 - Building dashboards for a few of  my previous projects
 - Tanzanian Water Well Project
 - Deploying an app for deepfake image detection
