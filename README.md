@@ -9,7 +9,7 @@ Python Development, SQL Querying, Data Analysis, Data Visualization, Machine Lea
 ### ✨ Technologies: 
 <b><u>Languages:</u></b> Python, SQL, PostgresSQL, Flask<br>
 <b><u>Analysis & Visualization:</u></b> Pandas, Numpy, Matplotlib, Seaborn, Plotly, SHAP, Lime, Google Colab, Dash<br>
-<b><u>Modeling:</u></b> Statsmodels, Scikit-learn, Tensorflow/Keras, Pytorch
+<b><u>Modeling:</u></b> Statsmodels, Scikit-learn, Tensorflow/Keras, Pytorch, NLTK, TFLearn, Pycaret
 
 ### 📫  How to reach me:
 - Email: jeff.spags@gmail.com
