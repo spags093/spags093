@@ -20,8 +20,8 @@ Python Development, SQL Querying, Data Analysis, Data Visualization, Machine Lea
 
 
 ### 🔭  I’m currently working on: 
-- Building dashboards for a few of  my previous projects
-- Tanzanian Water Well Project
+- Creating dashboards for a few of my previous projects
+- Project building a classifier to determine the effectiveness of Tanzanian water wells
 - Deploying an app for deepfake image detection
 - Building a text generation chatbot app
 - Seeking a full time Data Science or Machine Learning role 
