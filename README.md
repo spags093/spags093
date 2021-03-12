@@ -8,7 +8,7 @@ Python Development, SQL Querying, Data Analysis, Data Visualization, Machine Lea
 
 ### ✨ Technologies: 
 <b><u>Languages:</u></b> Python, SQL, PostgresSQL, and Flask<br>
-<b><u>Analysis & Visualization:</u></b> Pandas, Numpy, Matplotlib, Seaborn, Plotly, SHAP, Lime, Google Colab, and Dash<br>
+<b><u>Analysis & Visualization:</u></b> Pandas, Numpy, Matplotlib, Seaborn, Plotly, SHAP, Lime, Google Colab, Tableau, and Dash<br>
 <b><u>Modeling:</u></b> Statsmodels, Scikit-learn, Tensorflow/Keras, Pytorch, NLTK, TFLearn, and Pycaret
 
 ### 📫  How to reach me:
