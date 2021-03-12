@@ -18,7 +18,6 @@ Python Development, SQL Querying, Data Analysis, Data Visualization, Machine Lea
 - Blog: www.jeffspagnola.medium.com
 - Twitter: www.twitter.com/spagnolajeff
 
-
 ### 🔭  I’m currently working on: 
 - Creating dashboards for a few of my previous projects
 - Project building a classifier to determine the effectiveness of Tanzanian water wells
@@ -31,7 +30,7 @@ Python Development, SQL Querying, Data Analysis, Data Visualization, Machine Lea
 - Further building my understand of Machine Learning with Frank Kane's 'Machine Learning, Data Science and Deep Learning' Udemy course
 
 ### ⚡ Fun fact:
-I'm actually still an active musician!  Check out my electronic/synthpop band <a href="https://open.spotify.com/artist/4FWBBIMazTsF2kdnlW59dQ?si=WgZRSzB4SGe0AASxMXU8Cg">Black Mansions</a> on Spotify or anywhere music is streaming.
+I'm actually still an active musician!  Check out my new electronic/synthpop band <a href="https://open.spotify.com/artist/4FWBBIMazTsF2kdnlW59dQ?si=WgZRSzB4SGe0AASxMXU8Cg">Black Mansions</a> on Spotify or anywhere you like to stream music.  It's good for you.
 
 
 <!--
