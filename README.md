@@ -20,9 +20,9 @@ Python Development, SQL Querying, Data Analysis, Data Visualization, Machine Lea
 
 ### 🔭  I’m currently working on: 
 - Creating dashboards for a few of my previous projects
-- Project building a classifier to determine the effectiveness of Tanzanian water wells
+- NBA Shot Prediction Project
+- Spotify Song Data Analysis
 - Deploying an app for deepfake image detection
-- Building a text generation chatbot app
 - Seeking a full time Data Science or Machine Learning role 
 
 ### 🌱 I’m currently learning:
