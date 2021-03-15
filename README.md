@@ -4,7 +4,7 @@ I'm a Data Scientist and Machine Learning Engineer with a prior background in ma
 After witnessing first-hand the impact that data has had in many areas of the entertainment industry, I wanted to join in on the fun and be part of the exciting, burgeoning worlds of machine learning and deep learning. With the pandemic putting much of my "old life" on hold, I enrolled in the Flatiron School to build my skills in Python, Pandas, SQL, scikit-learn, Tensorflow/Keras, data analytics & visualization and many others. I'm "deeply" (pun intended) interested in building neural networks, image recognition systems, text/speech generation, and AI systems.
 
 ### ⚡ Skills:
-Python Development, SQL Querying, Data Analysis, Data Visualization, Machine Learning, Deep Learning, Computer Vision, NLP
+Python Development, SQL Queries, Data Analysis, Data Visualization, Machine Learning, Deep Learning, Computer Vision, NLP
 
 ### ✨ Technologies: 
 <b><u>Languages:</u></b> Python, SQL, PostgresSQL, and Flask<br>
@@ -28,6 +28,7 @@ Python Development, SQL Querying, Data Analysis, Data Visualization, Machine Lea
 ### 🌱 I’m currently learning:
 - The famous Deep Learning course on Coursera by Andrew Ng on Stanford University
 - Further building my understand of Machine Learning with Frank Kane's 'Machine Learning, Data Science and Deep Learning' Udemy course
+- Familiarizing myself with AWS and Azure
 
 ### ⚡ Fun fact:
 I'm actually still an active musician!  Check out my new electronic/synthpop band <a href="https://open.spotify.com/artist/4FWBBIMazTsF2kdnlW59dQ?si=WgZRSzB4SGe0AASxMXU8Cg">Black Mansions</a> on Spotify or anywhere you like to stream music.  It's good for you.
