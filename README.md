@@ -19,9 +19,9 @@ Python Development, SQL Queries, Data Analysis, Data Visualization, Machine Lear
 - Twitter: www.twitter.com/spagnolajeff
 
 ### 🔭  I’m currently working on: 
-- Creating dashboards for a few of my previous projects
-- NBA Shot Prediction Project
 - Spotify Song Data Analysis
+- NBA Shot Prediction Project
+- Creating dashboards for a few of my previous projects
 - Deploying an app for deepfake image detection
 - Seeking a full time Data Science or Machine Learning role 
 
