@@ -19,7 +19,7 @@ Python Development, SQL Queries, Data Analysis, Data Visualization, Machine Lear
 - Twitter: www.twitter.com/spagnolajeff
 
 ### 🔭  I’m currently working on: 
-- Spotify Song Data Analysis
+- Disney Theme Park Rating Analysis
 - NBA Shot Prediction Project
 - Creating dashboards for a few of my previous projects
 - Deploying an app for deepfake image detection
