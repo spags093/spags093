@@ -27,6 +27,7 @@ Python Development, SQL Queries, Data Analysis, Data Visualization, Machine Lear
 
 ### 🌱 I’m currently learning:
 - Methods to make my code more efficient
+- Learning Pycaret and deepening skills in Pytorch
 - The famous Deep Learning course on Coursera by Andrew Ng on Stanford University
 - Further building my understand of Machine Learning with Frank Kane's 'Machine Learning, Data Science and Deep Learning' Udemy course
 - Familiarizing myself with AWS and Azure
