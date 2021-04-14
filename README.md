@@ -19,18 +19,18 @@ Python Development, SQL Queries, Data Analysis, Data Visualization, Machine Lear
 - Twitter: www.twitter.com/spagnolajeff
 
 ### 🔭  I’m currently working on: 
-- Disney Theme Park Review & Rating Analysis
-- NBA Shot Prediction Project
-- Creating dashboards for several of my previous projects
-- Deploying an app for deepfake image detection
-- Seeking a full time Data Science, Machine Learning, or Data Analyst role 
+- Disney Theme Park Review & Rating Analysis.
+- NBA Shot Prediction Project.
+- Creating dashboards for several of my previous projects.
+- Deploying an app for deepfake image detection.
+- Seeking a full time Data Science, Machine Learning, or Data Analyst role.
 
 ### 🌱 I’m currently learning:
-- Methods to make my code more efficient
-- Learning Pycaret and deepening skills in Pytorch
-- The famous Deep Learning course on Coursera by Andrew Ng on Stanford University
-- Further building my understand of Machine Learning with Frank Kane's 'Machine Learning, Data Science and Deep Learning' Udemy course
-- Familiarizing myself with AWS, GCP, and Azure
+- Methods to make my code more efficient.
+- Learning Pycaret and deepening skills in Pytorch.
+- The famous Deep Learning course on Coursera by Andrew Ng on Stanford University.
+- Further building my understand of Machine Learning with Frank Kane's 'Machine Learning, Data Science and Deep Learning' Udemy course.
+- Familiarizing myself with AWS, GCP, and Azure.
 
 ### ⚡ Fun fact:
 I'm actually still an active musician!  Check out my new electronic/synthpop band <a href="https://open.spotify.com/artist/4FWBBIMazTsF2kdnlW59dQ?si=WgZRSzB4SGe0AASxMXU8Cg">Black Mansions</a> on Spotify or anywhere you like to stream music.  It's good for you.
