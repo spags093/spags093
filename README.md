@@ -23,7 +23,7 @@ Python Development, SQL Queries, Data Analysis, Data Visualization, Machine Lear
 - NBA Shot Prediction Project.
 - Creating dashboards for several of my previous projects.
 - Deploying an app for deepfake image detection.
-- Seeking a full time Data Science, Machine Learning, or Data Analyst role.
+- Seeking a full time Data Science, Machine Learning, or Data Analyst role.  
 
 ### 🌱 I’m currently learning:
 - Methods to make my code more efficient.
